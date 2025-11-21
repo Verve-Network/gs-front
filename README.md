@@ -34,21 +34,12 @@ Este projeto foi desenvolvido como uma interface estática para demonstrar habil
 
     Fontes: Google Fonts (Poppins).
 
-verve-network/
-│
-├── index.html                # Página Principal (Landing Page)
-├── LICENSE                   # Licença do projeto
-│
-└── src/
-    ├── assets/
-    │   └── imgs/             # Imagens do projeto (ícones, fotos de usuários)
-    │
-    ├── css/
-    │   ├── style.css         # Estilos da Landing Page
-    │   └── profile-style.css # Estilos específicos dos Perfis
-    │
-    └── pages/                # Páginas de perfil individuais
-        ├── profile1.html
-        ├── profile2.html
-        ├── profile3.html
-        └── ... (até profile10.html)
+/src -> pasta de fontes que contém outras paginas, imagens e arquivos de estilização 
+
+src/css -> pasta onde contém os arquivos de estilização das páginas 
+
+src/assets -> pasta onde contém imagens do projeto 
+
+src/pages -> pasta onde contém todas as outras páginas do projeto 
+
+index.html -> página principal (homepage) e inicial do projeto
