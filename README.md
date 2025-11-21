@@ -34,6 +34,8 @@ Este projeto foi desenvolvido como uma interface estática para demonstrar habil
 
     Fontes: Google Fonts (Poppins).
 
+## Estrutura do projeto
+
 /src -> pasta de fontes que contém outras paginas, imagens e arquivos de estilização 
 
 src/css -> pasta onde contém os arquivos de estilização das páginas 
