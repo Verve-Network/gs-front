@@ -10,6 +10,11 @@ Renan dos Reis Santos - RM568540
 
 O Verve é uma aplicação front-end de networking profissional moderna. O projeto consiste em uma landing page interativa e perfis de usuários detalhados, focando em uma experiência de usuário fluida e um design limpo.
 
+## Acesse aqui:
+https://verve-network.github.io/gs-front/ 
+
+https://gs-front-five.vercel.app/ (caso não funcione o github pages)
+
 ## Sobre o Projeto
 
 Este projeto foi desenvolvido como uma interface estática para demonstrar habilidades em HTML e CSS. A aplicação apresenta uma página inicial com um carrossel de "vozes" da comunidade e permite a navegação para páginas de perfis individuais, onde as informações dos profissionais são exibidas de forma dinâmica através de abas.
